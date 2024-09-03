@@ -6,9 +6,6 @@ import { useSelector } from 'react-redux'
 import "react-toastify/dist/ReactToastify.css"
 import GaugeChart from 'react-gauge-chart'
 import { useRef } from 'react'
-import EmployeeAppraisal from '../../../api/models/employeeQuarterlyForm.js'
-
-
 
 const slides = [
   "/Images/company1.jpg",
